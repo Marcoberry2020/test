@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Marcoberry2020/test.git%20/static/css/main.9d9cb1de.css",
+    "main.js": "/Marcoberry2020/test.git%20/static/js/main.1bd17d91.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Marcoberry2020/test.git%20/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Marcoberry2020/test.git%20/index.html",
+    "main.9d9cb1de.css.map": "/Marcoberry2020/test.git%20/static/css/main.9d9cb1de.css.map",
+    "main.1bd17d91.js.map": "/Marcoberry2020/test.git%20/static/js/main.1bd17d91.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Marcoberry2020/test.git%20/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d9cb1de.css",
+    "static/js/main.1bd17d91.js"
+  ]
+}
